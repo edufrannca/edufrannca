@@ -1,6 +1,6 @@
 # Sobre Mim
 
-Olá! 👋 Meu nome é Luiz Eduardo, tenho 24 anos e sou estudante de Engenharia da Computação. Sou apaixonado por tecnologia e estou em busca de oportunidades para desenvolver minhas habilidades na área de tecnologia.
+Olá! 👋 Meu nome é Luiz Eduardo, tenho 25 anos e sou estudante de Engenharia da Computação. Sou apaixonado por tecnologia e estou em busca de oportunidades para desenvolver minhas habilidades na área de tecnologia.
 
 ## Objetivo
 
