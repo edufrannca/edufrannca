@@ -1,36 +1,93 @@
-# Sobre Mim
+<div align="center">
 
-Olá! 👋 Meu nome é Luiz Eduardo, tenho 25 anos e sou estudante de Engenharia da Computação. Sou apaixonado por tecnologia e estou em busca de oportunidades para desenvolver minhas habilidades na área de tecnologia.
+# Luiz Eduardo
 
-## Objetivo
+### Backend & Fullstack Developer
 
-Estou buscando oportunidades de estágio ou emprego onde eu possa aplicar e aprimorar meus conhecimentos em Engenharia da Computação. Estou aberto a desafios e disposto a aprender e crescer junto com a equipe.
+**Construo APIs, automações e integrações**
 
-## Habilidades
+<a href="https://www.linkedin.com/in/SEU-USUARIO/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:luizeduardodefranca@gmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-- Linguagens de Programação: 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-- Banco de Dados:
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=07405E)
-- Bibliotecas e Frameworks:
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-- Linguagens de Marcação:
-![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-- Ferramentas:
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma)
+</div>
 
+<br/>
 
-## Contato
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luizeduardofranca/)
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:luizeduardofranca@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/edufrannca)
+## ⚡ O que eu faço
 
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Sinta-se à vontade para entrar em contato comigo se você tiver alguma oportunidade interessante ou quiser saber mais sobre mim. Estou ansioso para colaborar e contribuir para projetos incríveis na área de tecnologia!
+#### 🔌 APIs & Back-end
+APIs REST bem estruturadas em **Python** e **.NET**, com modelagem de dados, regras de negócio claras e consultas otimizadas.
+
+</td>
+<td width="50%" valign="top">
+
+#### 🤖 Automação & Coleta de Dados
+Robôs que navegam em portais, se autenticam (inclusive com **certificado digital**) e extraem dados de forma confiável, prontos para rodar em escala.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🔗 Integrações entre sistemas
+Faço sistemas diferentes conversarem: serviços, pipelines de dados, mensageria e notificações automáticas.
+
+</td>
+<td width="50%" valign="top">
+
+#### 🛠️ Sistemas legados
+Mantenho e evoluo código antigo sem quebrar o que já funciona. Entendo o sistema antes de mexer nele.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🧰 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cs,js,ts&theme=dark" />
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=django,fastapi,dotnet,vue,react&theme=dark" />
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=postgres,selenium,git,github,visualstudio&theme=dark" />
+
+<br/><br/>
+
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/EF%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+![REST](https://img.shields.io/badge/REST%20APIs-0ea5e9?style=flat-square)
+
+</div>
+
+<br/>
+
+## 🎯 Como eu trabalho
+
+```diff
++ Código legível vale mais que código esperto
++ Entender a regra de negócio antes de escrever a primeira linha
++ Automatizar o que é repetitivo
++ Pull request pequeno, revisado e testado
++ Deixar o sistema melhor do que encontrei
+```
+
+<br/>
+
+<div align="center">
+
+### 🤝 Vamos construir algo juntos?
+
+Aberto a oportunidades como **Desenvolvedor Backend / Fullstack**.
+
+<a href="https://www.linkedin.com/in/SEU-USUARIO/"><img src="https://img.shields.io/badge/Fale%20comigo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
+</div>
